@@ -1,7 +1,7 @@
 # Mining and Searching App Reviews for Requirements Engineering: Evaluation and Replication Studies
 
 The repository shares a replication package for the study: J. Dąbrowski et al.,
-"Mining and Searching App Reviews for Requirements Engineering: Evaluation and Replication Studies", [Update Once Paper Accepted], 2022. The package shares artefacts which we used in our study i.a., annotated datasets, our reimplementations of selected tools and supplementary scripts.
+"Mining and Searching App Reviews for Requirements Engineering: Evaluation and Replication Studies", [Update Once Paper Accepted], 2022. The package contains artefacts that we used in our study i.a., annotated datasets, our reimplementations of selected tools and supplementary scripts.
 
 ## About
 
