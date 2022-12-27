@@ -1,7 +1,7 @@
 # Mining and Searching App Reviews for Requirements Engineering: Evaluation and Replication Studies
 
 The repository shares a replication package for the study: J. Dąbrowski et al.,
-"Mining and Searching App Reviews for Requirements Engineering: Evaluation and Replication Studies", [Update Once Paper Accepted], 2022. The package contains artefacts that we used in our study i.a., annotated datasets, our reimplementations of selected tools and supplementary scripts.
+"Mining and Searching App Reviews for Requirements Engineering: Evaluation and Replication Studies", [Update Once Paper Accepted], 2023. The package contains artefacts that we used in our study i.a., annotated datasets, our reimplementations of selected tools and supplementary scripts.
 
 ## About
 
@@ -9,11 +9,11 @@ The repository shares a replication package for the study: J. Dąbrowski et al.,
 
 The goal of the study was to evaluate and compare approaches for mining feature-related information from app reviews. The study performed two experiments; the first experiment evaluated tools for mining user opinions. The second experiment evaluated tools for finding feature-relatd app reviews. We here provide the replication package for the study and the description of how to run the experiments.
 
-For any information, please contact the main contributor: Jacek Dąbrowski (j.dabrowski@cs.ucl.ac.uk)
+For any information, please contact the main contributor: Jacek Dąbrowski (jacek.dabrowski.16@alumni.ucl.ac.uk)
 
 or
 
-[Create new issue](https://github.com/jsdabrowski/IS-21/issues/new) for further information.
+[Create new issue](https://github.com/jsdabrowski/IS-22/issues/new) for further information.
 
 ## Repository Structure
 
