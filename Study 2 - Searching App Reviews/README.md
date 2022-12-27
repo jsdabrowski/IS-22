@@ -14,7 +14,7 @@ For any information, please contact the main contributor: Jacek Dąbrowski (jace
 
 or
 
-[Create new issue](https://github.com/jsdabrowski/IS-21/issues/new) for further information.
+[Create new issue](https://github.com/jsdabrowski/IS-22/issues/new) for further information.
 
 ## Repository Structure
 
