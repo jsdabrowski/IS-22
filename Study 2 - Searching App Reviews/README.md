@@ -1,7 +1,7 @@
 # Study 2 - Searching Feature-Specific Reviews: Replication Package
 
 The repository shares a replication package for the second experiment conducted in the study: J. Dąbrowski et al.,
-"Mining and Searching App Reviews for Requirements Engineering: Evaluation and Replication Studies", [Update Once Paper Accepted], 2022.
+"Mining and Searching App Reviews for Requirements Engineering: Evaluation and Replication Studies", [Update Once Paper Accepted], 2023.
 
 ## About
 
@@ -10,7 +10,7 @@ The repository shares a replication package for the second experiment conducted 
 The goal of the experiment was to evaluate and compare approaches for finding feature-specific app reviews. We here provide the replication package for the second experiment and the description of how to run it.
 
 
-For any information, please contact the main contributor: Jacek Dąbrowski (j.dabrowski@cs.ucl.ac.uk)
+For any information, please contact the main contributor: Jacek Dąbrowski (jacek.dabrowski.16@alumni.ucl.ac.uk)
 
 or
 
